@@ -11,29 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EddyVerbruggen/Custom-URL-scheme"
+    "url": "git+https://github.com/Mhitra/cordova-plugin-customurlscheme.git"
   },
   "keywords": [
     "Custom URL Scheme",
     "URLscheme",
     "URL scheme",
-    "Custom URL",
-    "Launch My App",
-    "Launch App",
     "ecosystem:cordova",
     "cordova-ios",
     "cordova-android"
   ],
-  "engines": {
-    "cordovaDependencies": {
-      "5.0.0": {
-        "cordova-android": ">=6.3.0"
-      },
-      "6.0.0": {
-        "cordova": ">100"
-      }
-    }
-  },
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
